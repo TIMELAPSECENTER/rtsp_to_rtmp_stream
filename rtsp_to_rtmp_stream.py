@@ -7,7 +7,7 @@ import os
 # Set Variables
 rtmp = 'rtmp://ip:port/key'
 rtsp = 'rtsp://admin:admin@ip:port/Streaming/Channels/101'
-reload_time_min = 15
+reload_time_min = 30
 
 
 def run_ffmpeg_linux():
